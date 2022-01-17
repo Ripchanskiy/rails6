@@ -1,0 +1,7 @@
+ - show tables, fields, keys, foreign keys
+ - CRUD
+ - create db dump, import dump
+ - copy tables
+ - write sql
+ - diagrams (show visualization), save to UML or image
+ - connect to remote DB
